@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+
+
 **ViperTechnologies-RnD/ViperTechnologies-RnD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,5 +15,5 @@ Here are some ideas to get you started:
 * 😄 Pronouns: he/him
 * ⚡ Fun fact: I am not addicted to coffee :D
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViperTechnologies-RnD&show_icons=true&theme=radical&count_private=true)
--->
+![Sobhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViperTechnologies-RnD&show_icons=true&theme=radical&count_private=true)
+
