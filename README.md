@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen&style=flat-square)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen&style=for-the-badge)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
