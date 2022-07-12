@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ViperTechnologies-RnD&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ViperTechnologies-RnD&theme=onedark)](https://github.com/ViperTechnologies-RnD/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen&style=for-the-badge)
 
