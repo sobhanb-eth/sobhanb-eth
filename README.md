@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-  
+[![Sobhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViperTechnologies-RnD)](https://github.com/ViperTechnologies-RnD/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
