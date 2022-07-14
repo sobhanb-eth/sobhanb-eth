@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ViperTechnologies-RnD&theme=onedark)](https://github.com/ViperTechnologies-RnD/github-profile-trophy)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=ViperTechnologies-RnD&color=brightgreen&style=for-the-badge)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
