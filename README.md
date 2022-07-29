@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=ViperTechnologies-RnD&color=brightgreen&style=for-the-badge)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViperTechnologies-RnD&layout=compact)](https://github.com/ViperTechnologies-RnD/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="[your link](https://www.linkedin.com/in/sobhan-bahrami-6ba80022/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
