@@ -6,8 +6,8 @@ This is Sobhan
 
 Here are some ideas to get you started:
 
-* 🔭 I’m currently working on DApp creation and Metaverse Systems
-* 🌱 I’m currently learning Solidity
+* 🔭 I’m currently working on DApps and Metaverse Systems
+* 🌱 I’m currently learning Solidity, SWAY, Rust, C# and .Net
 * 👯 I’m looking to collaborate on DApp and Metaverse (Game) projects
 * 🤔 I’m looking for help with (comming soon)
 * 💬 Ask me about technology and web3
